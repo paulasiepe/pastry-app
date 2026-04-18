@@ -1,10 +1,14 @@
-{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.psdevelopment.pastrysolutions",
-    "sha256_cert_fingerprints": [
-      "07:03:CC:E1:79:A9:14:7E:B9:AC:FA:1A:2D:F2:27:3A:21:1D:1B:07:9E:21:DE:40:C7:DF:17:DB:8F:AD:96:BA"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.psdevelopment.pastrysolutions",
+      "sha256_cert_fingerprints": [
+        "07:03:CC:E1:79:A9:14:7E:B9:AC:FA:1A:2D:F2:27:3A:21:1D:1B:07:9E:21:DE:40:C7:DF:17:DB:8F:AD:96:BA"
+      ]
+    }
   }
-}
+]
